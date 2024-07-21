@@ -1,6 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap');
 
-.logo {
+* {
+    font-family: Heebo;
+    background-color: rgb(56, 54, 54);
+    color: whitesmoke;
+}
 
-    
+.logo img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100vh;
+}
+
+.card {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }
